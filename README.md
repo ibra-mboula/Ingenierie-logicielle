@@ -15,14 +15,8 @@ diagramme de contexte statique, les diagrammes de séquences et les diagrammes d
 L'examen de ces éléments nous donnera une vision précise de la circulation des données sur le
 site et de la manière dont les utilisateurs interagissent avec celui-ci.
 
-MCD
-----
 
-![mcd](https://github.com/ibra-mboula/Ingenierie-logicielle/assets/78673312/c1c4ee27-bae3-4d98-9888-2245864aff4a)
-
-MLD
-----
-![mld](https://github.com/ibra-mboula/Ingenierie-logicielle/assets/78673312/f2f781d7-4cd2-4f1b-a2cd-c5d0e3e5167e)
+Vous trouverez ci-dessous quelques diagrammes. Consultez le rapport pour plus de détails
 
 DFD
 ----
